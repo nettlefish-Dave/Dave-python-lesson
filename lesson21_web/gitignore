@@ -1,2 +1,3 @@
 __package__
 __pycache__
+.env
